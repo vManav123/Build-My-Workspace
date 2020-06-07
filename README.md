@@ -4,7 +4,15 @@ Envision a system that provides a platform for discovering the perfect workspace
 Help the enormously increasing start-ups to fit into the appropriate workspaces by sharing the existing space.  
 <br>
 <br>
+<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(28).png"  width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(33).png" width = "450" >
 
+<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(35).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(29).png" width = "450" >
+
+<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(30).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(26).png" width = "450" >
+
+<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(22).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(24).png" width = "450" >
+
+<img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(25).png" width = "450" > <img src = "https://github.com/vManav123/UX-Design/blob/master/Images%20of%20BMW%20project/Screenshot%20(27).png" width = "450" >
 
 ## Key Features
 
